@@ -1,0 +1,29 @@
+_repo: The-IdiotHis-Place-in-Creation-and-His-Claims-on-Society_39670
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bateman, Frederick, Sir
+    alias: Bateman, Frederic, Sir
+    birthdate: 1824
+    deathdate: 1904
+    gutenberg_agent_id: '40148'
+    url: http://www.gutenberg.org/2009/agents/40148
+description: ''
+gutenberg_issued: '2012-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39670'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stupidity'
+- !lcc 'HV'
+- !lcc 'RC'
+- !lcsh 'Mental retardation'
+title: 'The Idiot: His Place in Creation, and His Claims on Society'
+url: http://www.gutenberg.org/ebooks/39670
