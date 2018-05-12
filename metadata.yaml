@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40148'
     url: http://www.gutenberg.org/2009/agents/40148
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39670#The-IdiotHis-Place-in-Creation-and-His-Claims-on-Society
 gutenberg_issued: '2012-05-11'
 gutenberg_type: Text
 identifiers:
